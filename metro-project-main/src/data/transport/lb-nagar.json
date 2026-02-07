@@ -1,0 +1,24 @@
+{
+  "stationName": "LB Nagar",
+  "stationId": "lb-nagar",
+  "lastMileOptions": {
+    "buses": [
+      { "routeNo": "279", "destination": "ECIL", "stopDistance": "80m", "frequency": "10 mins" },
+      { "routeNo": "288", "destination": "Uppal", "stopDistance": "80m", "frequency": "12 mins" },
+      { "routeNo": "156", "destination": "Mehdipatnam", "stopDistance": "90m", "frequency": "18 mins" },
+      { "routeNo": "23B", "destination": "Charminar", "stopDistance": "100m", "frequency": "15 mins" }
+    ],
+    "trains": [],
+    "autos": [
+      { "standName": "Auto Stand LB Nagar", "distance": "30m", "capacity": "25 autos" },
+      { "standName": "Auto Stand Bus Stop", "distance": "85m", "capacity": "15 autos" }
+    ],
+    "cabPickups": [
+      { "point": "Pickup Zone - Gate 1", "distance": "40m", "providers": ["Uber", "Ola", "Rapido", "Namma Yatri"] }
+    ],
+    "bikeRentals": [
+      { "provider": "Bounce", "distance": "95m", "available": "10 bikes" },
+      { "provider": "Yulu", "distance": "120m", "available": "6 bikes" }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "stationName": "Raidurg",
+  "stationId": "raidurg",
+  "lastMileOptions": {
+    "buses": [
+      { "routeNo": "217", "destination": "Miyapur", "stopDistance": "130m", "frequency": "20 mins" },
+      { "routeNo": "290U", "destination": "Gachibowli", "stopDistance": "110m", "frequency": "10 mins" },
+      { "routeNo": "188", "destination": "Hitech City", "stopDistance": "110m", "frequency": "8 mins" }
+    ],
+    "trains": [],
+    "autos": [
+      { "standName": "Auto Stand Main Gate", "distance": "60m", "capacity": "12 autos" }
+    ],
+    "cabPickups": [
+      { "point": "Pickup Zone - IT Park Side", "distance": "25m", "providers": ["Uber", "Ola"] },
+      { "point": "Pickup Zone - Main Exit", "distance": "55m", "providers": ["Rapido", "Namma Yatri"] }
+    ],
+    "bikeRentals": [
+      { "provider": "Bounce", "distance": "75m", "available": "14 bikes" },
+      { "provider": "Yulu", "distance": "85m", "available": "9 bikes" }
+    ]
+  }
+}

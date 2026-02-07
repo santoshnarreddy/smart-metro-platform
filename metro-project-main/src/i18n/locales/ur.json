@@ -1,0 +1,52 @@
+{
+  "voice": {
+    "listening": "سن رہے ہیں...",
+    "processing": "پروسیسنگ...",
+    "speak_now": "اب بولیں",
+    "click_to_speak": "بولنے کے لیے کلک کریں",
+    "language_selection": "زبان منتخب کریں",
+    "voice_response": "آواز کا جواب"
+  },
+  "lost_found": {
+    "title": "کھویا اور ملا",
+    "report_lost": "گمشدہ چیز کی اطلاع دیں",
+    "report_found": "ملی ہوئی چیز کی اطلاع دیں",
+    "view_reports": "تمام رپورٹس دیکھیں",
+    "item_type": "چیز کی قسم",
+    "title_placeholder": "چیز کا عنوان درج کریں",
+    "description": "تفصیل",
+    "station": "اسٹیشن",
+    "contact_phone": "رابطہ فون",
+    "contact_email": "رابطہ ای میل",
+    "date_incident": "واقعہ کی تاریخ",
+    "time_incident": "واقعہ کا وقت",
+    "upload_image": "تصویر اپ لوڈ کریں",
+    "submit_report": "رپورٹ جمع کریں",
+    "possible_matches": "ممکنہ میچز",
+    "contact_reporter": "رپورٹر سے رابطہ کریں",
+    "mark_resolved": "حل شدہ کے طور پر نشان زد کریں",
+    "admin_verify": "ایڈمن تصدیق",
+    "lost_items": "گمشدہ اشیاء",
+    "found_items": "ملی ہوئی اشیاء",
+    "my_reports": "میری رپورٹس",
+    "item_types": {
+      "electronics": "الیکٹرانکس",
+      "clothing": "کپڑے",
+      "documents": "دستاویزات",
+      "jewelry": "زیورات",
+      "bags": "بیگز",
+      "books": "کتابیں",
+      "keys": "چابیاں",
+      "mobile_phone": "موبائل فون",
+      "wallet": "بٹوا",
+      "other": "دیگر"
+    }
+  },
+  "common": {
+    "search": "تلاش کریں",
+    "cancel": "منسوخ کریں",
+    "save": "محفوظ کریں",
+    "close": "بند کریں",
+    "loading": "لوڈ ہو رہا ہے..."
+  }
+}

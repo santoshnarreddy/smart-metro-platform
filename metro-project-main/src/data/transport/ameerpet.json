@@ -1,0 +1,26 @@
+{
+  "stationName": "Ameerpet",
+  "stationId": "ameerpet",
+  "lastMileOptions": {
+    "buses": [
+      { "routeNo": "5K", "destination": "Secunderabad", "stopDistance": "100m", "frequency": "8 mins" },
+      { "routeNo": "49M", "destination": "MGBS", "stopDistance": "100m", "frequency": "12 mins" },
+      { "routeNo": "8A", "destination": "Mehdipatnam", "stopDistance": "120m", "frequency": "10 mins" },
+      { "routeNo": "10H", "destination": "Miyapur", "stopDistance": "100m", "frequency": "15 mins" },
+      { "routeNo": "156", "destination": "LB Nagar", "stopDistance": "110m", "frequency": "18 mins" }
+    ],
+    "trains": [],
+    "autos": [
+      { "standName": "Auto Stand Main Gate", "distance": "40m", "capacity": "20 autos" },
+      { "standName": "Auto Stand SR Nagar Side", "distance": "150m", "capacity": "12 autos" }
+    ],
+    "cabPickups": [
+      { "point": "Pickup Zone - Gate 1", "distance": "35m", "providers": ["Uber", "Ola", "Rapido"] },
+      { "point": "Pickup Zone - Gate 2", "distance": "45m", "providers": ["Namma Yatri"] }
+    ],
+    "bikeRentals": [
+      { "provider": "Bounce", "distance": "70m", "available": "15 bikes" },
+      { "provider": "Yulu", "distance": "100m", "available": "10 bikes" }
+    ]
+  }
+}

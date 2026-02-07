@@ -1,0 +1,23 @@
+{
+  "stationName": "Tarnaka",
+  "stationId": "tarnaka",
+  "lastMileOptions": {
+    "buses": [
+      { "routeNo": "3N", "destination": "Nampally", "stopDistance": "90m", "frequency": "12 mins" },
+      { "routeNo": "107V", "destination": "Vanasthalipuram", "stopDistance": "90m", "frequency": "20 mins" },
+      { "routeNo": "16A", "destination": "Mehdipatnam", "stopDistance": "100m", "frequency": "15 mins" }
+    ],
+    "trains": [
+      { "name": "MMTS - Falaknuma", "distance": "800m", "connectivity": "walking distance", "frequency": "25 mins" }
+    ],
+    "autos": [
+      { "standName": "Auto Stand Gate A", "distance": "45m", "capacity": "18 autos" }
+    ],
+    "cabPickups": [
+      { "point": "Pickup Zone - Main Exit", "distance": "50m", "providers": ["Uber", "Ola"] }
+    ],
+    "bikeRentals": [
+      { "provider": "Bounce", "distance": "110m", "available": "8 bikes" }
+    ]
+  }
+}

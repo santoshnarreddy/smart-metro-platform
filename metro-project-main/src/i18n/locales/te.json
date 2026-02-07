@@ -1,0 +1,52 @@
+{
+  "voice": {
+    "listening": "వింటున్నాము...",
+    "processing": "ప్రాసెసింగ్...",
+    "speak_now": "ఇప్పుడు మాట్లాడండి",
+    "click_to_speak": "మాట్లాడటానికి క్లిక్ చేయండి",
+    "language_selection": "భాషను ఎంచుకోండి",
+    "voice_response": "వాయిస్ రెస్పాన్స్"
+  },
+  "lost_found": {
+    "title": "కోల్పోయినవి & దొరికినవి",
+    "report_lost": "కోల్పోయిన వస్తువును నివేదించండి",
+    "report_found": "దొరికిన వస్తువును నివేదించండి",
+    "view_reports": "అన్ని నివేదికలను చూడండి",
+    "item_type": "వస్తువు రకం",
+    "title_placeholder": "వస్తువు శీర్షిక నమోదు చేయండి",
+    "description": "వివరణ",
+    "station": "స్టేషన్",
+    "contact_phone": "సంప్రదింపు ఫోన్",
+    "contact_email": "సంప్రదింపు ఇమెయిల్",
+    "date_incident": "సంఘటన తేదీ",
+    "time_incident": "సంఘటన సమయం",
+    "upload_image": "చిత్రం అప్‌లోడ్ చేయండి",
+    "submit_report": "నివేదిక సమర్పించండి",
+    "possible_matches": "సాధ్యమైన మ్యాచ్‌లు",
+    "contact_reporter": "రిపోర్టర్‌ను సంప్రదించండి",
+    "mark_resolved": "పరిష్కరించినట్లు గుర్తించండి",
+    "admin_verify": "అడ్మిన్ ధృవీకరణ",
+    "lost_items": "కోల్పోయిన వస్తువులు",
+    "found_items": "దొరికిన వస్తువులు",
+    "my_reports": "నా నివేదికలు",
+    "item_types": {
+      "electronics": "ఎలక్ట్రానిక్స్",
+      "clothing": "దుస్తులు",
+      "documents": "పత్రాలు",
+      "jewelry": "ఆభరణాలు",
+      "bags": "బ్యాగులు",
+      "books": "పుస్తకాలు",
+      "keys": "కీలు",
+      "mobile_phone": "మొబైల్ ఫోన్",
+      "wallet": "వాలెట్",
+      "other": "ఇతర"
+    }
+  },
+  "common": {
+    "search": "వెతకండి",
+    "cancel": "రద్దు చేయండి",
+    "save": "భద్రపరచండి",
+    "close": "మూసివేయండి",
+    "loading": "లోడ్ అవుతోంది..."
+  }
+}

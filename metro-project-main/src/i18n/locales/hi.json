@@ -1,0 +1,52 @@
+{
+  "voice": {
+    "listening": "सुन रहे हैं...",
+    "processing": "प्रसंस्करण...",
+    "speak_now": "अब बोलें",
+    "click_to_speak": "बोलने के लिए क्लिक करें",
+    "language_selection": "भाषा चुनें",
+    "voice_response": "आवाज़ की प्रतिक्रिया"
+  },
+  "lost_found": {
+    "title": "खोया और पाया",
+    "report_lost": "खोई हुई वस्तु की रिपोर्ट करें",
+    "report_found": "मिली हुई वस्तु की रिपोर्ट करें",
+    "view_reports": "सभी रिपोर्ट देखें",
+    "item_type": "वस्तु का प्रकार",
+    "title_placeholder": "वस्तु का शीर्षक दर्ज करें",
+    "description": "विवरण",
+    "station": "स्टेशन",
+    "contact_phone": "संपर्क फोन",
+    "contact_email": "संपर्क ईमेल",
+    "date_incident": "घटना की तारीख",
+    "time_incident": "घटना का समय",
+    "upload_image": "छवि अपलोड करें",
+    "submit_report": "रिपोर्ट जमा करें",
+    "possible_matches": "संभावित मिलान",
+    "contact_reporter": "रिपोर्टर से संपर्क करें",
+    "mark_resolved": "हल के रूप में चिह्नित करें",
+    "admin_verify": "एडमिन सत्यापन",
+    "lost_items": "खोई हुई वस्तुएं",
+    "found_items": "मिली हुई वस्तुएं",
+    "my_reports": "मेरी रिपोर्ट",
+    "item_types": {
+      "electronics": "इलेक्ट्रॉनिक्स",
+      "clothing": "कपड़े",
+      "documents": "दस्तावेज़",
+      "jewelry": "आभूषण",
+      "bags": "बैग",
+      "books": "किताबें",
+      "keys": "चाबियां",
+      "mobile_phone": "मोबाइल फोन",
+      "wallet": "बटुआ",
+      "other": "अन्य"
+    }
+  },
+  "common": {
+    "search": "खोजें",
+    "cancel": "रद्द करें",
+    "save": "सहेजें",
+    "close": "बंद करें",
+    "loading": "लोड हो रहा है..."
+  }
+}

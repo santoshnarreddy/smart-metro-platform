@@ -1,0 +1,52 @@
+{
+  "voice": {
+    "listening": "Listening...",
+    "processing": "Processing...",
+    "speak_now": "Speak now",
+    "click_to_speak": "Click to speak",
+    "language_selection": "Select Language",
+    "voice_response": "Voice Response"
+  },
+  "lost_found": {
+    "title": "Lost & Found",
+    "report_lost": "Report Lost Item",
+    "report_found": "Report Found Item",
+    "view_reports": "View All Reports",
+    "item_type": "Item Type",
+    "title_placeholder": "Enter item title",
+    "description": "Description",
+    "station": "Station",
+    "contact_phone": "Contact Phone",
+    "contact_email": "Contact Email", 
+    "date_incident": "Date of Incident",
+    "time_incident": "Time of Incident",
+    "upload_image": "Upload Image",
+    "submit_report": "Submit Report",
+    "possible_matches": "Possible Matches",
+    "contact_reporter": "Contact Reporter",
+    "mark_resolved": "Mark as Resolved",
+    "admin_verify": "Admin Verify",
+    "lost_items": "Lost Items",
+    "found_items": "Found Items",
+    "my_reports": "My Reports",
+    "item_types": {
+      "electronics": "Electronics",
+      "clothing": "Clothing", 
+      "documents": "Documents",
+      "jewelry": "Jewelry",
+      "bags": "Bags",
+      "books": "Books",
+      "keys": "Keys",
+      "mobile_phone": "Mobile Phone",
+      "wallet": "Wallet",
+      "other": "Other"
+    }
+  },
+  "common": {
+    "search": "Search",
+    "cancel": "Cancel",
+    "save": "Save",
+    "close": "Close",
+    "loading": "Loading..."
+  }
+}

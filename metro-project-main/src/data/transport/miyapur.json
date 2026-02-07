@@ -1,0 +1,27 @@
+{
+  "stationName": "Miyapur",
+  "stationId": "miyapur",
+  "lastMileOptions": {
+    "buses": [
+      { "routeNo": "225", "destination": "BHEL", "stopDistance": "120m", "frequency": "10 mins" },
+      { "routeNo": "10H", "destination": "Secunderabad", "stopDistance": "150m", "frequency": "15 mins" },
+      { "routeNo": "217", "destination": "Patancheru", "stopDistance": "120m", "frequency": "20 mins" },
+      { "routeNo": "219", "destination": "Miyapur X Roads", "stopDistance": "80m", "frequency": "8 mins" }
+    ],
+    "trains": [
+      { "name": "MMTS - Lingampally", "distance": "1.2km", "connectivity": "walk + bus", "frequency": "30 mins" }
+    ],
+    "autos": [
+      { "standName": "Auto Stand Gate A", "distance": "50m", "capacity": "15 autos" },
+      { "standName": "Auto Stand Gate B", "distance": "100m", "capacity": "10 autos" }
+    ],
+    "cabPickups": [
+      { "point": "Pickup Zone - Gate C", "distance": "30m", "providers": ["Uber", "Ola"] },
+      { "point": "Pickup Zone - Main Exit", "distance": "60m", "providers": ["Rapido", "Namma Yatri"] }
+    ],
+    "bikeRentals": [
+      { "provider": "Bounce", "distance": "80m", "available": "12 bikes" },
+      { "provider": "Yulu", "distance": "90m", "available": "8 bikes" }
+    ]
+  }
+}
