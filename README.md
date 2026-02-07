@@ -31,14 +31,23 @@ This project focuses on making metro systems more efficient, secure, and accessi
 ## 📂 Project Structure
 
 smart-metro-platform/
+
 │
+
 ├── public/
+
 ├── src/
+
 ├── index.html
+
 ├── package.json
+
 ├── vite.config.ts
+
 ├── tailwind.config.ts
+
 └── README.md
+
 
 
 ---
